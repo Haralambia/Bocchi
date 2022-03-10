@@ -1,0 +1,27 @@
+{
+  "name": "bocchi",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haralambia/Bocchi.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "bia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haralambia/Bocchi/issues"
+  },
+  "homepage": "https://github.com/Haralambia/Bocchi#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
